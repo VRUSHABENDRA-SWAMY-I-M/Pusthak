@@ -44,12 +44,12 @@ export default function About() {
 
       <div className="Contacts">
         <h2>Contact us</h2>
-        <Link to={"https://wa.me/919482265843"}>
+        <Link to={"https://wa.me/916360947623"}>
           <div>
             <PhoneAndroid fontSize="large"/> or <WhatsApp fontSize="large"/> +91 9482265843
           </div>
         </Link>
-        <Link to={"mailto:akarshagowda15@gmail.com"}>
+        <Link to={"mailto:vrushabendra2002@gmail.com"}>
           <div>
             <Email fontSize="large"/> info@pusthak.lib.in
           </div>
