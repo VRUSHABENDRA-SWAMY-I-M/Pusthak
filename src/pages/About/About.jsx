@@ -46,7 +46,7 @@ export default function About() {
         <h2>Contact us</h2>
         <Link to={"https://wa.me/916360947623"}>
           <div>
-            <PhoneAndroid fontSize="large"/> or <WhatsApp fontSize="large"/> +91 9482265843
+            <PhoneAndroid fontSize="large"/> or <WhatsApp fontSize="large"/> +91 6360947623
           </div>
         </Link>
         <Link to={"mailto:vrushabendra2002@gmail.com"}>
